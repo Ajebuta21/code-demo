@@ -14,3 +14,5 @@ const handleClick = () => {
   alert("Button clicked!");
 };
 </script>
+
+<!-- the issue seems to be from the package @swarmakit/vue as it is installed correctly -->
