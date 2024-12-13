@@ -20,4 +20,3 @@ While the issue persists, I implemented a custom button component to simulate fu
 
 ## Next Steps
 - Collaborate with the Swarmauri team to resolve the library's compatibility issues.
-- Gain deeper familiarity with `@swarmakit/vue`.

@@ -7,6 +7,7 @@
   <div>
     <h1>Code Demo</h1>
     <!-- <Button :label="'Click Me!'" @click="handleClick"></Button> -->
+     <!-- Used a normal button instead -->
      <button @click="handleClick">Click Me</button>
   </div>
 </template>
@@ -17,4 +18,4 @@ const handleClick = () => {
 };
 </script>
 
-<!-- the issue seems to be from the package @swarmakit/vue as it is installed correctly -->
+<!-- the issue seems to be from the package @swarmakit/vue. Likely related package's `package.json` or export configuration -->
